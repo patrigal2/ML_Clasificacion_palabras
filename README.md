@@ -86,7 +86,7 @@ El proyecto sigue la siguiente organización:
 ```
 src/
 │
-├── data_sample/           # Archivos de datos de muestra utilizados (pequeños CSV o TXT reproducibles)
+├── data_sample/           # Archivos de datos de muestra utilizados
 │   ├── palabras_euskera_completo.csv
 │   └── 0_palabras_todas.txt
 │
