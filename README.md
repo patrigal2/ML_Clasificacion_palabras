@@ -40,7 +40,7 @@ El pipeline completo incluye:
 6. Clasificación interactiva de nuevas palabras.
 7. Almacenamiento de resultados en SQL.
 
-## ▶️ Ejecución
+## Ejecución
 
 ### Desde notebook
 
