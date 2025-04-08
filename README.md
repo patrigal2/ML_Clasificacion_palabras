@@ -91,7 +91,7 @@ src/
 │   └── 0_palabras_todas.txt
 │
 ├── img/(gráficas, visualizaciones, etc.)
-│   
+│   └── clasificacion-de-datos.png
 │
 ├── notebooks/             # Notebooks usados para la fase exploratoria y pruebas
 │   └── clasificador_palabras.ipynb
