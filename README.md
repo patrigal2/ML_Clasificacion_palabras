@@ -38,9 +38,9 @@ El pipeline completo incluye:
 4. Entrenamiento de modelo Random Forest.
 5. Evaluación con métricas estándar.
 6. Clasificación interactiva de nuevas palabras.
-7. Almacenamiento de resultados en SQLite.
+7. Almacenamiento de resultados en SQL.
 
-## ▶️ Ejecución
+## Ejecución
 
 ### Desde notebook
 
@@ -79,7 +79,7 @@ Este proyecto se compone de tres notebooks principales:
 - `Ejemplo_modelo.ipynb`: notebook interactivo que permite cargar el modelo entrenado, introducir nuevas palabras y ver cómo se clasifican automáticamente, con almacenamiento en SQLite.
 
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 El proyecto sigue la siguiente organización:
 
@@ -91,7 +91,7 @@ src/
 │   └── 0_palabras_todas.txt
 │
 ├── img/(gráficas, visualizaciones, etc.)
-│   
+│   └── clasificacion-de-datos.png
 │
 ├── notebooks/             # Notebooks usados para la fase exploratoria y pruebas
 │   └── clasificador_palabras.ipynb
