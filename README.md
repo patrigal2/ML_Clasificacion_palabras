@@ -38,7 +38,7 @@ El pipeline completo incluye:
 4. Entrenamiento de modelo Random Forest.
 5. Evaluación con métricas estándar.
 6. Clasificación interactiva de nuevas palabras.
-7. Almacenamiento de resultados en SQLite.
+7. Almacenamiento de resultados en SQL.
 
 ## ▶️ Ejecución
 
