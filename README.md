@@ -79,7 +79,7 @@ Este proyecto se compone de tres notebooks principales:
 - `Ejemplo_modelo.ipynb`: notebook interactivo que permite cargar el modelo entrenado, introducir nuevas palabras y ver cómo se clasifican automáticamente, con almacenamiento en SQLite.
 
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 El proyecto sigue la siguiente organización:
 
