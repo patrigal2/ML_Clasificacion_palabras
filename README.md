@@ -16,7 +16,7 @@ Se ha construido un dataset combinando dos fuentes:
   - https://eu.wikipedia.org/wiki/Euskal_Herriko_historia
   - https://eu.wikipedia.org/wiki/Euskal_Herria
 
-- **Castellano**: archivo `.txt` con un gran número de palabras del español (`0_palabras_todas.txt`).
+- **Castellano**: archivo `.txt` con un gran número de palabras del español (`0_palabras_todas.txt`). (Se ha conseguido la información mediante github).
 
 Las palabras se almacenan con su respectiva etiqueta de idioma y se someten a un proceso de limpieza y normalización. El dataset original estaba desbalanceado, por lo que se ha reducido la clase mayoritaria (castellano) al doble del número de palabras en euskera para evitar sesgos durante el entrenamiento.
 
@@ -100,7 +100,7 @@ src/
 ├── results_notebook/      # Notebook final con el pipeline limpio y funcional
 │   └── ML_project.ipynb
 │
-├── models/                # Modelos entrenados y vectorizador guardados
+├── models/                # Modelo entrenado y vectorizador guardados
 │   ├── ML project.pkl
 │   └── vectorizer.pkl
 │
